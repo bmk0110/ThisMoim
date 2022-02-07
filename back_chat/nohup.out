@@ -1,0 +1,1104 @@
+Socket IO server listening on port 3000
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+()room : 
+socket.id: V5mYHSLK7aDhIK-AAAAB
+Message from , 내용 : asdf
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+()room : 
+socket.id: H02JqPub74UrqjxNAAAC
+Message from , 내용 : asdfasdf
+Message from , 내용 : 하이
+Message from , 내용 : 안녕?
+Message from , 내용 : ㅁㄴㅇㄻㄴㅇㄹ
+Message from , 내용 : ㅁㄴㅇㄹ
+Message from , 내용 : ㅁㄴㅇㄹ
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+()room : 
+socket.id: fDGS_SPcsyF9_J_vAAAD
+Message from , 내용 : 아아 마이크 테스트
+Message from , 내용 : 들리심미까
+Message from , 내용 : 아니
+Message from , 내용 : 안들려
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+_______________________________________
+Received request to create or join room %ED%95%98%ED%95%98
+Room %ED%95%98%ED%95%98 now has 0 client(s)
+Client ID BIEkZpcHJHpvMHx2AAAE created room %ED%95%98%ED%95%98
+첫번째 if문
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+()room : 
+socket.id: VMEUyo_RdFkcBnIYAAAF
+Message from , 내용 : 강현아
+Message from , 내용 : 우리 카톡대신 이걸로 하자
+Message from , 내용 : ㄱㄱ
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+()room : 
+socket.id: H-7KUYJ17_4gaBsJAAAG
+Message from , 내용 : asdasd
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+()room : 
+socket.id: O41HvtO3pDMUPnKwAAAH
+Message from , 내용 : ㄴ
+Message from , 내용 : ㅇㅁㅇㅁㅇ
+Message from , 내용 : ㅎㅇ
+Message from , 내용 : ㅎㅇ
+Message from , 내용 : ㅎㅇ
+Message from , 내용 : 다 들어와
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+()room : 
+socket.id: Df4EKNS_nqXSGzgHAAAI
+Message from , 내용 : 김민규
+Message from , 내용 : ?
+Message from , 내용 : 나간거 누구야
+Message from , 내용 : 김민규 누구냐
+Message from , 내용 : 김민규는 누구야
+Message from , 내용 : ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+Message from , 내용 : 개섭섭하네
+to undefined from 
+(귓속말) 내용 : ㅗ
+socketid : VMEUyo_RdFkcBnIYAAAF
+dataid : undefined
+() room : undefined
+Message from , 내용 : ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+Message from , 내용 : 이거 진짜
+Message from , 내용 : 후
+to undefined from 
+(귓속말) 내용 : ㅗㅗ
+socketid : VMEUyo_RdFkcBnIYAAAF
+dataid : undefined
+() room : undefined
+to undefined from 
+(귓속말) 내용 : ㅗㅗㅗ
+socketid : VMEUyo_RdFkcBnIYAAAF
+dataid : undefined
+() room : undefined
+Message from , 내용 : 집가고싶다
+Message from , 내용 : 엥 누구냐
+Message from , 내용 : 이렇게 의지 없는 놈
+Message from , 내용 : 누구냐
+Message from , 내용 : 나야나
+Message from , 내용 : 배민규 : 아 하기싫다... 나 자고있을테니까 다 해놔 ^^
+Message from , 내용 : 뭐래ㅡㅡ
+Message from , 내용 : ㅋㅋㅋㅋㅋㅋㅋㅋ
+Message from , 내용 : 와 민규형..
+Message from , 내용 : ;;;
+Message from , 내용 : 이거 백퍼
+Message from , 내용 : 동률이형이다
+Message from , 내용 : 아니 이럴거면 익명 왜함?
+Message from , 내용 : 민규형 진짜 실망이다
+Message from , 내용 : 다 티나네
+Message from , 내용 : ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+Message from , 내용 : 사람들이 말투가 다 티나잖어
+to 강현아 어제 저녁 뭐 만들었어?ㅋㅋ from 
+(귓속말) 내용 : 
+socketid : O41HvtO3pDMUPnKwAAAH
+dataid : 강현아 어제 저녁 뭐 만들었어?ㅋㅋ
+() room : 강현아 어제 저녁 뭐 만들었어?ㅋㅋ
+Message from , 내용 : 강현아 어제 저녁 뭐 만들었어?ㅋㅋ
+Message from , 내용 : 어제?
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+()room : 
+socket.id: p1W6qjcA6iKp9honAAAJ
+Message from , 내용 : hi
+Message from , 내용 : hello, world
+Message from , 내용 : 라면끓였지
+Message from , 내용 : 누구야.. 우리집에 라면 없어..
+Message from , 내용 : 나 동률인데 내가 말한거아님
+Message from , 내용 : 누군데 우리집 상황을 그렇게 잘알아
+Message from , 내용 : 아니 저건 또 누구야
+Message from , 내용 : ㅋㅋㅋㅋㅋㅋㅋ
+Message from , 내용 : 무슨얘기하는거야
+Message from , 내용 : 아니 근데 말하고 스크롤 아래로 내려야되네
+Message from , 내용 : 자동으로 내려지게 바꿔줘 민규야
+Message from , 내용 : 그러게 불편하다
+Message from , 내용 : 강현이형 해결좀해봐
+Message from , 내용 : 내가 강현인데 우리집에 라면있고 어제는 샌드위치 해먹었어
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+_______________________________________
+Received request to create or join room 12
+Room 12 now has 0 client(s)
+Client ID InGKk2ktSgvaDURdAAAK created room 12
+첫번째 if문
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+()room : 
+socket.id: p3Qt8F4DAnFztU81AAAL
+Message from , 내용 : 재접하면 초기화됨
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+()room : 
+socket.id: mMA2plCP3mOOIdO-AAAM
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+()room : 
+socket.id: wjvO2-eHQLPXWvgIAAAN
+Message from , 내용 : 꿀팁;
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+()room : 
+socket.id: D-XBl7udnLp5tsnbAAAO
+Message from , 내용 : 그냥 f5키만 눌러도 되는데?
+Message from , 내용 : 새로고침하면 초기화돼
+Message from , 내용 : 동률이형 얼른 고쳐놔
+Message from , 내용 : 동률아 일 똑바로 안하니
+Message from , 내용 : 아니
+Message from , 내용 : 이건
+Message from , 내용 : 민규일이야
+Message from , 내용 : ㅅㄱ
+Message from , 내용 : 와 민규형 일안하네
+Message from , 내용 : 강의보고싶은데
+Message from , 내용 : 노트북 쓰레기라 못본다
+Message from , 내용 : ㅎㅎ
+Message from , 내용 : 스크린을 보고싶은데
+Message from , 내용 : 앞조 사람 옷 걸어놓은거
+Message from , 내용 : https://www.youtube.com/watch?v=GXSadmnSGVk
+Message from , 내용 : 겁나 거슬린다
+Message from , 내용 : ㅋㅋㅋㅋㅋㅋ내려달라할까
+Message from , 내용 : 허억
+Message from , 내용 : 쾌적
+Message from , 내용 : 감사합니다
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+()room : 
+socket.id: MdDhUcQpIVk0E4faAAAP
+Message from , 내용 : 크 용우형 굳굳
+Message from , 내용 : 굿굿
+Message from , 내용 : 크으
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+13) 
+()room : 
+socket.id: Q5FnLmoYHqaK3AiTAAAQ
+Message from , 내용 : 문경누나는 안왔나
+Message from , 내용 : 이상하다
+Message from , 내용 : 이중에 누나라고 부를사람은 나밖에 없는데..
+Message from , 내용 : 누구야
+Message from , 내용 : 누구야
+Message from , 내용 : 난 봣어
+Message from , 내용 : 재원이가 치느거
+Message from , 내용 : ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+Message from , 내용 : 에바;
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Message from , 내용 : ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+13) 
+14) 
+()room : 
+socket.id: iC_XAwS0ZE-Ftak4AAAR
+Message from , 내용 : 재원이형이 치는거 상상했어 ; ;
+Message from , 내용 : 진짜 재원이형 역하다
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+13) 
+14) 
+15) 
+()room : 
+socket.id: _SGlQEJ1X8ABR0NjAAAS
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+13) 
+14) 
+15) 
+16) 
+()room : 
+socket.id: P5ioyHar7CaeQQArAAAT
+Message from , 내용 : ㅋㅋㅋㅋㅋ
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Message from undefined, 내용 : 접속자이름 가져오는 로직이 시급하다!
+Message from , 내용 : 강현이형 화상채팅 ㄱㄱ?
+Message from , 내용 : 화상채팅 안돼 http여서
+Message from , 내용 : 
+to undefined from 
+(귓속말) 내용 : 누구야
+socketid : _SGlQEJ1X8ABR0NjAAAS
+dataid : undefined
+() room : undefined
+Message from , 내용 : 이거 버전좀 업데이트할게 잠만
+Message from undefined, 내용 : 부탁해요 배포욪어
+Message from undefined, 내용 : 요정
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+13) 
+14) 
+15) 
+16) 
+17) 
+()room : 
+socket.id: C_qSec3__tBjguF2AAAV
+Message from , 내용 : 오
+Message from , 내용 : 오?
+Message from , 내용 : 누군가 이름이 생겼어
+Message from undefined, 내용 : 나 이름 생긴거야?
+Message from , 내용 : 안녕 undefined!
+Message from undefined, 내용 : 버그발견@@
+Message from undefined, 내용 : 관리자입니다---
+Message from , 내용 : undefined 누구야?
+Message from , 내용 : 관리자면 강현이네
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+_______________________________________
+Received request to create or join room %E3%85%87%E3%85%87
+Room %E3%85%87%E3%85%87 now has 0 client(s)
+Client ID 3XyYUZoonc5fTDFnAAAW created room %E3%85%87%E3%85%87
+첫번째 if문
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+13) 
+14) 
+15) 
+16) 
+17) 
+18) 
+()room : 
+socket.id: t4N0f8g3y-pnzMV1AAAX
+Message from , 내용 : 여기 관리자는 동률이형이랑 민규형이잖아
+Message from , 내용 : 형 여기 로직에 JQuery 쓸 생각 있어?
+Message from , 내용 : 아니
+Message from , 내용 : 귀찮아
+Message from , 내용 : 좀 써봐..;
+Message from , 내용 : ㅗ
+Message from , 내용 : 재원이형이잖아 이거
+Message from undefined, 내용 : 문경이는 우리가 놀고있는줄 모른다
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+13) 
+14) 
+15) 
+16) 
+17) 
+18) 
+19) 
+()room : 
+socket.id: ANRS63LAX4Hx7gDdAAAY
+Message from , 내용 : ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+Message from , 내용 : ㅎㅎㅎ
+Message from , 내용 : ㅎㅎㅎ
+Message from , 내용 : 아냐 몰래 와서 보고있을수도있어
+Message from , 내용 : 배고프다~
+Message from , 내용 : 오늘 점심 뭐였지
+Message from , 내용 : 순대였나?
+Message from , 내용 : 순대볶음
+Message from , 내용 : ㅇㅇ
+Message from , 내용 : 오늘 밖에 나가서 먹는거 아니었어?
+Message from , 내용 : 어 진짜?
+Message from , 내용 : 어 진짜야?
+Message from , 내용 : 어 진짜?
+Message from , 내용 : 비오면 귀찮은데
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+13) 
+14) 
+15) 
+16) 
+17) 
+18) 
+19) 
+20) 
+()room : 
+socket.id: s5HeLbF-wObJt_9TAAAZ
+Message from , 내용 : has joined
+Message from , 내용 : 동률이형이 JQuery 만 몇줄 넣어주면
+Message from , 내용 : 아주아주 편해질수있는데
+Message from , 내용 : 동률이형이면 금방하지
+Message from , 내용 : 동률이형은 할수있지
+Message from , 내용 : 밥먹기전에 끝낼걸?
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+13) 
+14) 
+15) 
+16) 
+17) 
+18) 
+19) 
+20) 
+21) 
+()room : 
+socket.id: SJzXbTJI_GdVV9u9AAAb
+Message from undefined, 내용 : 입력칸 아래로 내리고 
+Message from , 내용 : CSS 두줄이면 스크롤 박스로 만들수있고
+Message from undefined, 내용 : 출력칸 높이 고정하고 싶다
+Message from , 내용 : JQuery 몇줄이면 스크롤 맨밑으로 고정할수있어
+Message from , 내용 : CSS 애니메이션까지 만들어준대
+Message from , 내용 : 이모티콘 추가해준다는데?
+Message from undefined, 내용 : 난 왜 또 undefined야 
+Message from , 내용 : 네임드네
+Message from , 내용 : 크으
+Message from , 내용 : 크
+Message from , 내용 : 동률이형 그래서 이모티콘 만들어주는거야?
+Message from , 내용 : 아니 그건 민규 니가 해야지
+Message from , 내용 : [서울_5반_김강현] 동률이형 화이팅!
+undefined님이 연결을 끓으셨습니다.
+Message from , 내용 : 이모티콘도 생각하고잇는데 버그걸리는게 많아서 이거 해결좀 빨리함 ㅠ
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+13) 
+14) 
+15) 
+16) 
+17) 
+18) 
+19) 
+20) 
+21) 
+22) 
+()room : 
+socket.id: _DsvMmzy8vwtJth1AAAd
+Message from , 내용 : [운영자] 잠시 업데이트점
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+13) 
+14) 
+15) 
+16) 
+17) 
+18) 
+19) 
+20) 
+21) 
+22) 
+23) 
+()room : 
+socket.id: iLL5Fp6FScSUYc3bAAAe
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+13) 
+14) 
+15) 
+16) 
+17) 
+18) 
+19) 
+20) 
+21) 
+22) 
+23) 
+24) 
+()room : 
+socket.id: j5ZOznXxeH7m4APNAAAf
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+8) 
+9) 
+10) 
+11) 
+12) 
+13) 
+14) 
+15) 
+16) 
+17) 
+18) 
+19) 
+20) 
+21) 
+22) 
+23) 
+24) 
+25) 
+()room : 
+socket.id: tDQVa0N3Hy9WS12MAAAg
+Message from , 내용 : 강현아
+Message from , 내용 : 응?
+Message from , 내용 : 보고잇구나
+Message from , 내용 : 그
+Message from , 내용 : sudo
+Message from , 내용 : 응
+Message from , 내용 : sudo fuser -k (portnum) /tcp
+Message from , 내용 : sudo fuser -k 3030 /tcp
+Message from , 내용 : 치면 되는거아닌가??
+Message from , 내용 : 죽이는거
+undefined님이 연결을 끓으셨습니다.
+Message from , 내용 : 띄어쓰기 없이 해봐봐
+Message from , 내용 : 경로를 다른데서 해줘야되나
+Message from , 내용 : sudo fuser -k 3030/tcp
+Message from , 내용 : 아
+
+> backend_Chat@1.0.0 start /home/ubuntu/testServer/backend_chat/s03p13a510/back_chat
+> node app.js
+
+Socket IO server listening on port 3000
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+()room : 
+socket.id: 7VSiNyjaN2nocY_iAAAE
+Message from undefined, 내용 : ㅁㄴㅇ
+Message from undefined, 내용 : 됏다
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+()room : 
+socket.id: GsWg_hHKBpyAJeLLAAAH
+Message from , 내용 : ㅁㄴㅇ
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+()room : 
+socket.id: 68TmK3srkNISdTYQAAAK
+Message from , 내용 : asdf
+Message from , 내용 : 아니 푸쉬햇는데 왜 똑같지
+Message from , 내용 : git pull 해줫는디 ubuntu에서
+Message from , 내용 : 흠?
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Message from , 내용 : 확실히 된거 맞아?
+Message from , 내용 : git log에는 9시 38분이 마지막인데
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+()room : 
+socket.id: g1LIyBei2ZwQBrU1AAAM
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Message from , 내용 : 형
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+()room : 
+socket.id: 8hqCVxk1cibakkpqAAAN
+Message from , 내용 : pull 할때도
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Message from , 내용 : sudo 붙여야해'
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+()room : 
+socket.id: 9gdd_JM5dG57RmkAAAAP
+Message from , 내용 : sudo git pull
+Message from , 내용 : 아 수도를 안붙엿네
+Message from , 내용 : 근데
+Message from , 내용 : 신기한게
+Message from , 내용 : ubuntu에서
+Message from , 내용 : ls로 확인해보니 파일은 들어가있는데
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+()room : 
+socket.id: PmL9dHE03TzlmNfIAAAQ
+님이 연결을 끓으셨습니다.
+client_list[i] : 
+Client logged-in:
+ name: 
+ userid: ungmo2@gmail.com
+0) 
+1) 
+2) 
+3) 
+4) 
+5) 
+6) 
+7) 
+()room : 
+socket.id: kIbT-adn2GoCZmTnAAAR
+Message from , 내용 : 다시해봄
+undefined님이 연결을 끓으셨습니다.
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! backend_Chat@1.0.0 start: `node app.js`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the backend_Chat@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2020-08-05T01_43_06_291Z-debug.log
+
+> backend_Chat@1.0.0 start /home/ubuntu/testServer/backend_chat/s03p13a510/back_chat
+> node app.js
+
+/home/ubuntu/testServer/backend_chat/s03p13a510/back_chat/app.js:271
+<<<<<<< HEAD
+^^
+
+SyntaxError: Unexpected token '<<'
+    at wrapSafe (internal/modules/cjs/loader.js:1053:16)
+    at Module._compile (internal/modules/cjs/loader.js:1101:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at internal/main/run_main_module.js:17:47
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! backend_Chat@1.0.0 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the backend_Chat@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2020-08-05T01_48_26_012Z-debug.log
+
+> backend_Chat@1.0.0 start /home/ubuntu/project/s03p13a510/back_chat
+> node app.js
+
+Socket IO server listening on port 3030
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: xlu
+ userid: xlu
+0)xlu 
+(xlu)room : xlu
+socket.id: 7Pocq56vvSSl8WSdAAAZ
+Client logged-in:
+ name: sue
+ userid: sue
+0)xlu 
+1)sue 
+(sue)room : sue
+socket.id: pWN5hQEFC2iQHXiSAAAY
+Message from sue, 내용 : 안녕?
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: pcj
+ userid: pcj
+0)xlu 
+1)sue 
+2)pcj 
+(pcj)room : pcj
+socket.id: H6C4Xpe6CR57jfviAAAc
+Message from pcj, 내용 : asdf
+Client logged-in:
+ name: dzj
+ userid: dzj
+0)xlu 
+1)sue 
+2)pcj 
+3)dzj 
+(dzj)room : dzj
+socket.id: 7Pocq56vvSSl8WSdAAAZ
+dzj님이 연결을 끓으셨습니다.
+client_list[i] : xlu
+client_list[i] : dzj
+pcj님이 연결을 끓으셨습니다.
+client_list[i] : pcj
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: fwq
+ userid: fwq
+0)xlu 
+1)sue 
+2)pcj 
+3)dzj 
+4)fwq 
+(fwq)room : fwq
+socket.id: u8CjjtdarMiJlHaMAAAf
+Message from sue, 내용 : ㅁㄴㄹ
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: gjo
+ userid: gjo
+0)xlu 
+1)sue 
+2)pcj 
+3)dzj 
+4)fwq 
+5)gjo 
+(gjo)room : gjo
+socket.id: rd5zOvjjd-YJSB01AAAd
+sue님이 연결을 끓으셨습니다.
+client_list[i] : sue
+undefined님이 연결을 끓으셨습니다.
+Message from gjo, 내용 : chatchat
+Client logged-in:
+ name: juc
+ userid: juc
+0)xlu 
+1)sue 
+2)pcj 
+3)dzj 
+4)fwq 
+5)gjo 
+6)juc 
+(juc)room : juc
+socket.id: DCoYajy7b2eYwVtzAAAm
+Message from juc, 내용 : ㅁㄴㅇㄹ
+Message from juc, 내용 : 들리세여?
+Message from juc, 내용 : 누구 없어요?
+Message from juc, 내용 : 애니바디데어!
+Message from gjo, 내용 : 안녕하세요
+Message from juc, 내용 : 헤이!
+Message from juc, 내용 : 헬로!
+Message from gjo, 내용 : 헬로헬로
+Message from juc, 내용 : 어 사람있었네
+Message from juc, 내용 : 어찌 쪽팔려
+Message from gjo, 내용 : 괜찮아요 익명이니까 : >
+undefined님이 연결을 끓으셨습니다.
+Message from juc, 내용 : ㅎㅎ 그렇네여
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+Message from juc, 내용 : 전 배민규라고 해여
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+Message from gjo, 내용 : 민규씨 아닌거 알아요
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+Message from juc, 내용 : 밍큐라고 불러주세요
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+Message from gjo, 내용 : :minkyu:
+undefined님이 연결을 끓으셨습니다.
+Message from gjo, 내용 : 매터모스트에 :minkyu 를 입력해주세요!
+undefined님이 연결을 끓으셨습니다.
+Message from juc, 내용 : 헐
+Message from juc, 내용 : 놀라워라
+Message from juc, 내용 : 있네
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+Message from gjo, 내용 : 이것이 싸피인싸
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+fwq님이 연결을 끓으셨습니다.
+client_list[i] : fwq
+gjo님이 연결을 끓으셨습니다.
+client_list[i] : gjo
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+juc님이 연결을 끓으셨습니다.
+client_list[i] : juc
+Client logged-in:
+ name: zze
+ userid: zze
+0)xlu 
+1)sue 
+2)pcj 
+3)dzj 
+4)fwq 
+5)gjo 
+6)juc 
+7)zze 
+(zze)room : zze
+socket.id: kN7JXw3slBwsfzzpAAA-
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: exp
+ userid: exp
+0)xlu 
+1)sue 
+2)pcj 
+3)dzj 
+4)fwq 
+5)gjo 
+6)juc 
+7)zze 
+8)exp 
+(exp)room : exp
+socket.id: odfOoJK0t2x5dSJVAAA_
+exp님이 연결을 끓으셨습니다.
+client_list[i] : exp
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
+Client logged-in:
+ name: dwd
+ userid: dwd
+0)xlu 
+1)sue 
+2)pcj 
+3)dzj 
+4)fwq 
+5)gjo 
+6)juc 
+7)zze 
+8)exp 
+9)dwd 
+(dwd)room : dwd
+socket.id: SyIIfFUOJ4sLYKtnAABD
+Message from dwd, 내용 : 사람있오요?
+undefined님이 연결을 끓으셨습니다.
+undefined님이 연결을 끓으셨습니다.
